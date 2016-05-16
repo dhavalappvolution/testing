@@ -207,7 +207,7 @@
 				TargetAttributes = {
 					4A8AC4391CE5E63D008017E3 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 3Y5A9TCX8W;
+						DevelopmentTeam = T9PVZR5SPF;
 					};
 					4A8AC4521CE5E63D008017E3 = {
 						CreatedOnToolsVersion = 7.2;
@@ -417,7 +417,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mobilewits.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c516b7eb-0cf9-4877-9c38-29c0eac44d01";
+				PROVISIONING_PROFILE = "401e4dd1-a79f-4476-9bdf-3cb3abb2e94e";
 			};
 			name = Debug;
 		};
@@ -430,7 +430,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mobilewits.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c516b7eb-0cf9-4877-9c38-29c0eac44d01";
+				PROVISIONING_PROFILE = "401e4dd1-a79f-4476-9bdf-3cb3abb2e94e";
 			};
 			name = Release;
 		};
