@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4AA4B0F81CEB4002006CA6AE"
-               BuildableName = "DhavalTesting.app"
-               BlueprintName = "DhavalTesting"
-               ReferencedContainer = "container:DhavalTesting.xcodeproj">
+               BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
+               BuildableName = "Testing.app"
+               BlueprintName = "Testing"
+               ReferencedContainer = "container:Testing.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4A8AC4521CE5E63D008017E3"
+               BuildableName = "TestingTests.xctest"
+               BlueprintName = "TestingTests"
+               ReferencedContainer = "container:Testing.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4A8AC45D1CE5E63D008017E3"
+               BuildableName = "TestingUITests.xctest"
+               BlueprintName = "TestingUITests"
+               ReferencedContainer = "container:Testing.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4AA4B0F81CEB4002006CA6AE"
-            BuildableName = "DhavalTesting.app"
-            BlueprintName = "DhavalTesting"
-            ReferencedContainer = "container:DhavalTesting.xcodeproj">
+            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
+            BuildableName = "Testing.app"
+            BlueprintName = "Testing"
+            ReferencedContainer = "container:Testing.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4AA4B0F81CEB4002006CA6AE"
-            BuildableName = "DhavalTesting.app"
-            BlueprintName = "DhavalTesting"
-            ReferencedContainer = "container:DhavalTesting.xcodeproj">
+            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
+            BuildableName = "Testing.app"
+            BlueprintName = "Testing"
+            ReferencedContainer = "container:Testing.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4AA4B0F81CEB4002006CA6AE"
-            BuildableName = "DhavalTesting.app"
-            BlueprintName = "DhavalTesting"
-            ReferencedContainer = "container:DhavalTesting.xcodeproj">
+            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
+            BuildableName = "Testing.app"
+            BlueprintName = "Testing"
+            ReferencedContainer = "container:Testing.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
