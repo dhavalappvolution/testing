@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Testing.xcscheme_^#shared#^_</key>
+		<key>DhavalTesting.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4A8AC4391CE5E63D008017E3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>4A8AC4521CE5E63D008017E3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>4A8AC45D1CE5E63D008017E3</key>
+		<key>4AA4B0F81CEB4002006CA6AE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
