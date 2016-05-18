@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Testing.xcscheme_^#shared#^_</key>
+		<key>Sanjay_Jenkins.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4A8AC4391CE5E63D008017E3</key>
+		<key>4A7CE9101CEC9A52005C0C3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4A8AC4521CE5E63D008017E3</key>
+		<key>4A7CE9241CEC9A52005C0C3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4A8AC45D1CE5E63D008017E3</key>
+		<key>4A7CE92F1CEC9A52005C0C3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

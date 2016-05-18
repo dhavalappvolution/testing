@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
-               BuildableName = "Testing.app"
-               BlueprintName = "Testing"
-               ReferencedContainer = "container:Testing.xcodeproj">
+               BlueprintIdentifier = "4A7CE9101CEC9A52005C0C3D"
+               BuildableName = "Sanjay_Jenkins.app"
+               BlueprintName = "Sanjay_Jenkins"
+               ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4A8AC4521CE5E63D008017E3"
-               BuildableName = "TestingTests.xctest"
-               BlueprintName = "TestingTests"
-               ReferencedContainer = "container:Testing.xcodeproj">
+               BlueprintIdentifier = "4A7CE9241CEC9A52005C0C3D"
+               BuildableName = "Sanjay_JenkinsTests.xctest"
+               BlueprintName = "Sanjay_JenkinsTests"
+               ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4A8AC45D1CE5E63D008017E3"
-               BuildableName = "TestingUITests.xctest"
-               BlueprintName = "TestingUITests"
-               ReferencedContainer = "container:Testing.xcodeproj">
+               BlueprintIdentifier = "4A7CE92F1CEC9A52005C0C3D"
+               BuildableName = "Sanjay_JenkinsUITests.xctest"
+               BlueprintName = "Sanjay_JenkinsUITests"
+               ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
-            BuildableName = "Testing.app"
-            BlueprintName = "Testing"
-            ReferencedContainer = "container:Testing.xcodeproj">
+            BlueprintIdentifier = "4A7CE9101CEC9A52005C0C3D"
+            BuildableName = "Sanjay_Jenkins.app"
+            BlueprintName = "Sanjay_Jenkins"
+            ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
-            BuildableName = "Testing.app"
-            BlueprintName = "Testing"
-            ReferencedContainer = "container:Testing.xcodeproj">
+            BlueprintIdentifier = "4A7CE9101CEC9A52005C0C3D"
+            BuildableName = "Sanjay_Jenkins.app"
+            BlueprintName = "Sanjay_Jenkins"
+            ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4A8AC4391CE5E63D008017E3"
-            BuildableName = "Testing.app"
-            BlueprintName = "Testing"
-            ReferencedContainer = "container:Testing.xcodeproj">
+            BlueprintIdentifier = "4A7CE9101CEC9A52005C0C3D"
+            BuildableName = "Sanjay_Jenkins.app"
+            BlueprintName = "Sanjay_Jenkins"
+            ReferencedContainer = "container:Sanjay_Jenkins.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
